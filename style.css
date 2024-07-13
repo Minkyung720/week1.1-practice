@@ -36,3 +36,7 @@ nav {
   flex-direction: column;
   justify-content: center;
 }
+
+#toggleButton {
+  font-size: 30px;
+}
